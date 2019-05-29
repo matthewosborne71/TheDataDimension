@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 *_votes.csv
+*all_members.csv
+CleanVotes.py
